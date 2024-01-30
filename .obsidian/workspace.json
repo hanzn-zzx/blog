@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "f06eea83f73d344b",
+    "type": "split",
+    "children": [
+      {
+        "id": "dee09ef98b82c2c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e1f44b752d765b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scaffolds/_obsidian/post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d06c7f915d42bef",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3e59be62d35e993",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17b50989b36c0f7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb3b7a7eed88972c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa55d695abc309f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aedef6898d0de263",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5b889651671345f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "849ae94e9a46ec0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "scaffolds/_obsidian/post.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2f7c86f89958b04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "scaffolds/_obsidian/post.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47af015d921a83bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1589723795612693",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "scaffolds/_obsidian/post.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "17b50989b36c0f7a",
+  "lastOpenFiles": [
+    "source/_posts/未命名.md",
+    "scaffolds/_obsidian/post.md",
+    "source/_posts/Linux-sharing.md",
+    "source/未命名.md",
+    "source/about/index.md",
+    "source/_posts/first-blog.md",
+    "未命名.md",
+    "source/_posts/zz.md",
+    "scaffolds/_obsidian/未命名.md",
+    "scaffolds/post.md",
+    "scaffolds/_obsidian",
+    "未命名",
+    "scaffolds/page.md",
+    "scaffolds/draft.md",
+    "source/_posts/hello-world.md"
+  ]
+}

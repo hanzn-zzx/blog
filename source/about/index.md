@@ -1,9 +1,9 @@
 ---
-title: about
-date: 2023-11-24 17:08:45
+title: 关于
+layout: about
 ---
 
-hanzn-zzx，2009-02-13出生。一个初三牲，热爱linux和开源世界。
+hanzn-zzx，2009-02-13出生。一个初三牲，热爱linux和开源。
 
 deepin论坛版主，deepin常用资源整理的维护者之一。
 
